@@ -23,4 +23,8 @@ canvas{
     border: solid 3px rgb(184, 183, 183) ;
     box-shadow: 5px 5px 9px grey;
     border-radius: 10px;
+    
+}
+#vid{
+ transform: scaleX(-1); 
 }
